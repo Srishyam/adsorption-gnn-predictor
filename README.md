@@ -6,4 +6,4 @@ _Srishyam Raghavan, Brian P. Chaplin, and Shafigh Mehraeen_
 
 _Journal of Chemical Information and Modeling_ 2023 63 (17), 5529-5538
 
-(DOI: [10.1021/acs.jcim.3c00979](url)) 
+(DOI: [https://10.1021/acs.jcim.3c00979](url)) 
