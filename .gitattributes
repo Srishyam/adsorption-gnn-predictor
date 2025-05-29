@@ -1,0 +1,15 @@
+*.pkl filter=lfs diff=lfs merge=lfs -text
+# Model files
+*.pt filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text
+
+# NumPy data
+*.npy filter=lfs diff=lfs merge=lfs -text
+*.npz filter=lfs diff=lfs merge=lfs -text
+
+# HDF5 or scientific data
+*.h5 filter=lfs diff=lfs merge=lfs -text
+
+# Raw CSV/JSON datasets (if large)
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
