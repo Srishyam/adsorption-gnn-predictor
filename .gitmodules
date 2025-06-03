@@ -1,0 +1,6 @@
+[submodule "scripts/external/cgcnn"]
+	path = scripts/external/cgcnn
+	url = https://github.com/Srishyam/cgcnn
+[submodule "scripts/external/alignn"]
+	path = scripts/external/alignn
+	url = https://github.com/Srishyam/alignn
